@@ -16,3 +16,5 @@ broadcast
 # Ignore local misc files
 .DS_Store
 *.pem
+
+lib
